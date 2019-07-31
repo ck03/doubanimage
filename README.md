@@ -12,7 +12,7 @@ scrapy下載圖片:
     <h2>當然在settings.py的權值要自己設定</h2>
   </li>
   <li>
-    <h2>回傳到Doubanimage2Pipeline後可在close_spider將資設同步傳至momgodb及json</h2>
+    <h2>回傳到Doubanimage2Pipeline後可在close_spider將資料同步傳至momgodb及json</h2>
   </li>
 </ul>
   
