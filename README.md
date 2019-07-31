@@ -1,6 +1,6 @@
 # doubanimage
 爬取http://www.douban.com/photos/album/1638835355
-<
+<br/>
 scrapy下載圖片:
 在pipelines.py新增一個中間件DoubanImgDownloadPipeline
 <ul>
